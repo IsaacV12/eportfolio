@@ -1,0 +1,24 @@
+body {
+	background-image: url("bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+}
+div {
+	width: 600px;
+	padding: 20px;
+	border: 5px solid black;
+	margin: 0px;
+	background-color: #71A9FF;
+}
+h1 {
+	color: white;
+}
+p {
+	color: white;
+}
+m1 {
+	font-size:40pt;
+	color: white;
+}
